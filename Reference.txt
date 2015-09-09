@@ -1,0 +1,7 @@
+pwd - print working directory
+ls - list
+ls -p - list with slash
+rmdir - remove directory
+touch - create a file
+rm - remove file
+rm -rf / - delete all mounted drivescls
